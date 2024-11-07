@@ -1,7 +1,5 @@
 ## bbloom: a bitset Bloom filter for go/golang
 
-===
-
 [![Go](https://github.com/AndreasBriese/bbloom/actions/workflows/go.yml/badge.svg)](https://github.com/AndreasBriese/bbloom/actions/workflows/go.yml)
 
 package implements a fast bloom filter with real 'bitset' and JSONMarshal/JSONUnmarshal to store/reload the Bloom filter. 
